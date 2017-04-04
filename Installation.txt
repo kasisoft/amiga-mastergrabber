@@ -1,0 +1,18 @@
+
+  If you want to use MasterGrabber you have to read the installation
+  chapter of one of the docs first. The included "bgui.library" is
+  the optimized one for MC68020+ and AmigaOS 3.0+. I've added this
+  version because nearly all persons who have registered are using
+  a configuration that matches this library. To get the "bgui.library"
+  for MC68000 download the bgui-user-distribution from the following
+  site: "http://www.az.com/~ie/bgui" or use the one of the first
+  MasterGrabber-Distribution.
+
+    Thanx 8)
+
+
+-------------------------------------------------------------------------
+
+      MasterGrabber_D.guide      : deutsch
+      MasterGrabber_I.guide      : italiano
+      MasterGrabber_E.guide      : english

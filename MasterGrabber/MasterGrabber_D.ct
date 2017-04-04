@@ -1,0 +1,260 @@
+## version $VER: MasterGrabber_Deutsch.catalog 1.2 (07-Apr-97 )
+## codeset 0
+## language deutsch
+;
+ERR_MEMORY_STR
+Nicht genügend Speicher vorhanden !\x00
+;
+;
+ERR_LIBRARY_STR
+Ich benötige \x22%s\x22 v%ld oder höher zum starten !\x00
+;
+;
+ERR_LIBWARN_STR
+Ich könnte \x22%s\x22 v%ld oder höher gebrauchen !\x00
+;
+;
+ERR_OS_STR
+Sie benötigen Amiga OS 3.0 (v39) oder höher !\x00
+;
+;
+ERR_WINDOWLIST_STR
+Sie müssen die Fensterliste zuerst laden !\x00
+;
+;
+ERR_SCREENLIST_STR
+Sie müssen die Bildschirmliste zuerst laden !\x00
+;
+;
+ERR_OPEN_STR
+Datei \x22%s\x22 konnte nicht geöffnet werden !\x00
+;
+;
+ERR_NOHELP_STR
+Kann die Hilfs-Datei nicht finden !\x00
+;
+;
+ERR_TITLE_STR
+MG - Fehler\x00
+;
+;
+ERR_ANSWER0_STR
+_Weiter\x00
+;
+;
+ERR_ANSWER1_STR
+_OK\x00
+;
+;
+ERR_REOPEN_STR
+Kann Fenster nicht wieder öffnen !\x00
+;
+;
+ERR_VALIDDIM_STR
+Sie müssen zuerst korrekte Bereichs-Dimensionen eingeben !\x00
+;
+;
+ERR_DESTPATH_STR
+Sie müssen zuerste einen korrekten Zielpfad eingeben !\x00
+;
+;
+MAIN_TYPE_STR
+Ty_p......:\x00
+;
+;
+MAIN_LEFT_STR
+_Links....:\x00
+;
+;
+MAIN_TOP_STR
+_Oben.....:\x00
+;
+;
+MAIN_WIDTH_STR
+_Breite.:\x00
+;
+;
+MAIN_HEIGHT_STR
+_Höhe...:\x00
+;
+;
+MAIN_FILE_STR
+_IFF-Datei:\x00
+;
+;
+MAIN_REFRESH_STR
+Liste e_rneuern\x00
+;
+;
+MAIN_HIDE_STR
+Fenster _verstecken ?\x00
+;
+;
+MAIN_SAVE_STR
+_Speichern\x00
+;
+;
+MAIN_QUIT_STR
+_Ende\x00
+;
+;
+MAIN_COUNTDOWN_STR
+_Countdown:\x00
+;
+;
+MAIN_ACTIVATE_STR
+Fe_nster aktivieren\x00
+;
+;
+MAIN_TYPE_CHAR_STR
+p\x00
+;
+;
+MAIN_LEFT_CHAR_STR
+l\x00
+;
+;
+MAIN_TOP_CHAR_STR
+o\x00
+;
+;
+MAIN_WIDTH_CHAR_STR
+b\x00
+;
+;
+MAIN_HEIGHT_CHAR_STR
+h\x00
+;
+;
+MAIN_FILE_CHAR_STR
+i\x00
+;
+;
+MAIN_ASLREQUESTER_CHAR_STR
+f\x00
+;
+;
+MAIN_REFRESH_CHAR_STR
+r\x00
+;
+;
+MAIN_HIDE_CHAR_STR
+v\x00
+;
+;
+MAIN_SAVE_CHAR_STR
+s\x00
+;
+;
+MAIN_QUIT_CHAR_STR
+e\x00
+;
+;
+MAIN_COUNTDOWN_CHAR_STR
+c\x00
+;
+;
+MAIN_ACTIVATE_CHAR_STR
+n\x00
+;
+;
+GLO_NOTITLE_STR
+ohne Titel\x00
+;
+;
+GLO_ASLTITLE_STR
+Wählen Sie einen Zielpfad:\x00
+;
+;
+GLO_SCREENTITLE_STR
+MasterGrabber v1.2b (c) Copyrights by Daniel Kasmeroglu (1997)\x00
+;
+;
+GLO_WINDOWTITLE_STR
+MG - REGWARE\x00
+;
+;
+GLO_SCREEN_STR
+Bildschirm\x00
+;
+;
+GLO_WINDOW_STR
+Fenster\x00
+;
+;
+GLO_AREA_STR
+Bereich\x00
+;
+;
+GLO_SCREENLIST_STR
+Bildschirme\x00
+;
+;
+GLO_WINDOWLIST_STR
+Fenster\x00
+;
+;
+TTI_TYPE_STR
+Legt den zu speichernden \x22Bildtyp\x22 fest !\x00 
+;
+;
+TTI_LEFT_STR
+Angabe der \x1bblinke\x1bn-oberen Ecke des Bereiches !\x00
+;
+;
+TTI_TOP_STR
+Angabe der linken-\x1bboberen\x1bn Ecke des Bereiches !\x00
+;
+;
+TTI_WIDTH_STR
+Breite des Bereiches in Pixel !\x00
+;
+;
+TTI_HEIGHT_STR
+Höhe des Bereiches in Pixel !\x00
+;
+;
+TTI_FILE_STR
+\x1bcHier müssen Sie den Zielpfad des Bildes angeben !\x0a\x1bbWICHTIG: Eine bereits existierende Datei würde\x1bn\x0a\x1bbohne Kommentar überschrieben werden !\x00
+;
+;
+TTI_REFRESH_STR
+Komplette Liste aktualisieren !\x00
+;
+;
+TTI_HIDE_STR
+Programmfenster während des Speicherns verstecken !\x00
+;
+;
+TTI_SAVE_STR
+Das Bild speichern !\x00
+;
+;
+TTI_QUIT_STR
+Programm verlassen !\x00
+;
+;
+TTI_ASLREQUESTER_STR
+\x1bcZielpfad mittels Dateiauswahlfenster auswählen !\x0a\x1bb(Hotkey: \x22f\x22)\x00
+;
+;
+TTI_LIST_STR
+Liste verfügbarer Bildschirm bzw. Fenster !\x00
+;
+;
+TTI_MOUSE_STR
+Aktuelle Maus-Koordinaten auf dem Bildschirm !\x00
+;
+;
+TTI_SWITCH_STR
+Schaltet zwischen Fenster- und Bildschirmliste um !\x00
+;
+;
+TTI_COUNTDOWN_STR
+Wartezeit in Sekunden vor dem Speichervorgang !\x00
+;
+;
+TTI_ACTIVATE_STR
+Fenster vor dem Speichern aktivieren ?\x00
+;
+;

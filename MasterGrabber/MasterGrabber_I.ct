@@ -1,0 +1,260 @@
+## version $VER: MasterGrabber.catalog 1.2 (03-Apr-97)
+## codeset 0
+## language italiano
+;
+ERR_MEMORY_STR
+Memoria insufficiente !\x00
+;
+;
+ERR_LIBRARY_STR
+Occorre \x22%s\x22 v%ld o superiore per funzionare !\x00
+;
+;
+ERR_LIBWARN_STR
+Potrei usare \x22%s\x22 v%ld o superiore !\x00
+;
+;
+ERR_OS_STR
+Occorre Amiga OS 3.0 (v39) superiore !\x00
+;
+;
+ERR_WINDOWLIST_STR
+Carica la `windowlist' prima !\x00
+;
+;
+ERR_SCREENLIST_STR
+Carica la `screenlist' prima !\x00
+;
+;
+ERR_OPEN_STR
+Impossibile aprire il file \x22%s\x22 !\x00
+;
+;
+ERR_NOHELP_STR
+Impossibile trovare la `help-guide' !\x00
+;
+;
+ERR_TITLE_STR
+MG - Errore\x00
+;
+;
+ERR_ANSWER0_STR
+_Continua\x00
+;
+;
+ERR_ANSWER1_STR
+_OK\x00
+;
+;
+ERR_REOPEN_STR
+Impossibile riaprire la window !\x00
+;
+;
+ERR_VALIDDIM_STR
+Specifica dimensioni dell'area valide !\x00
+;
+;
+ERR_DESTPATH_STR
+Specifica il `destination-path' prima !\x00
+;
+;
+MAIN_TYPE_STR
+_Tipo.....:\x00
+;
+;
+MAIN_LEFT_STR
+Vert S_x..:\x00
+;
+;
+MAIN_TOP_STR
+Vert S_up.:\x00
+;
+;
+MAIN_WIDTH_STR
+_Largh..:\x00
+;
+;
+MAIN_HEIGHT_STR
+_Altezza:\x00
+;
+;
+MAIN_FILE_STR
+File-_IFF.:\x00
+;
+;
+MAIN_REFRESH_STR
+A_ggiorna lista\x00
+;
+;
+MAIN_HIDE_STR
+_Cela `window'\x00
+;
+;
+MAIN_SAVE_STR
+_Salva\x00
+;
+;
+MAIN_QUIT_STR
+_Esci\x00
+;
+;
+MAIN_COUNTDOWN_STR
+Ti_mer\x00
+;
+;
+MAIN_ACTIVATE_STR
+Attiva `_window'\x00
+;
+;
+MAIN_TYPE_CHAR_STR
+t\x00
+;
+;
+MAIN_LEFT_CHAR_STR
+x\x00
+;
+;
+MAIN_TOP_CHAR_STR
+u\x00
+;
+;
+MAIN_WIDTH_CHAR_STR
+l\x00
+;
+;
+MAIN_HEIGHT_CHAR_STR
+a\x00
+;
+;
+MAIN_FILE_CHAR_STR
+i\x00
+;
+;
+MAIN_ASLREQUESTER_CHAR_STR
+f\x00
+;
+;
+MAIN_REFRESH_CHAR_STR
+g\x00
+;
+;
+MAIN_HIDE_CHAR_STR
+c\x00
+;
+;
+MAIN_SAVE_CHAR_STR
+s\x00
+;
+;
+MAIN_QUIT_CHAR_STR
+e\x00
+;
+;
+MAIN_COUNTDOWN_CHAR_STR
+m\x00
+;
+;
+MAIN_ACTIVATE_CHAR_STR
+w\x00
+;
+;
+GLO_NOTITLE_STR
+senza titolo\x00
+;
+;
+GLO_ASLTITLE_STR
+Scegli un `file':\x00
+;
+;
+GLO_SCREENTITLE_STR
+MasterGrabber v1.2b (c) Copyrighted by Daniel Kasmeroglu (1997)\x00
+;
+;
+GLO_WINDOWTITLE_STR
+MG - REGWARE\x00
+;
+;
+GLO_SCREEN_STR
+Screen\x00
+;
+;
+GLO_WINDOW_STR
+Window\x00
+;
+;
+GLO_AREA_STR
+Area\x00
+;
+;
+GLO_SCREENLIST_STR
+Screenlist\x00
+;
+;
+GLO_WINDOWLIST_STR
+Windowlist\x00
+;
+;
+TTI_TYPE_STR
+Specifica ciò che vuoi salvare !\x00
+;
+;
+TTI_LEFT_STR
+Specifica il vertice in alto a \x1bbsinistra\x1bn dell'area !\x00
+;
+;
+TTI_TOP_STR
+Specifica il vertice in \x1bbalto\x1bn a sinistra dell'area !\x00
+;
+;
+TTI_WIDTH_STR
+Seleziona la larghezza dell'area !\x00
+;
+;
+TTI_HEIGHT_STR
+Seleziona l'altezza dell'area !\x00
+;
+;
+TTI_FILE_STR
+\x1bcQui devi specificare il `destination-path' dell'immagine !\x0a\x1bbNOTA: Un eventuale file con lo stesso `path' verrà\x0a\x1bbsovrascritto senza nessun commento !\x00
+;
+;
+TTI_REFRESH_STR
+Ricarica l'intera lista !\x00
+;
+;
+TTI_HIDE_STR
+Cela la `window' durante il salvataggio !\x00
+;
+;
+TTI_SAVE_STR
+Salva l'immagine !\x00
+;
+;
+TTI_QUIT_STR
+Esci dal programma !\x00
+;
+;
+TTI_ASLREQUESTER_STR
+\x1bcSelezione il `file' con un `ASL-Filerequester' !\x0a(Hotkey: \x22f\x22)\x00
+;
+;
+TTI_LIST_STR
+`screen' o `window' disponibili !\x00
+;
+;
+TTI_MOUSE_STR
+Posizione corrente del `mouse' sullo `screen' !\x00
+;
+;
+TTI_SWITCH_STR
+Commuta tra lista `screen' e lista `window' !\x00
+;
+;
+TTI_COUNTDOWN_STR
+\x1bcSpecifica il numero di secondi che MasterGrabber deve attendere\x0aprima di iniziare le operazioni.\x00
+;
+;
+TTI_ACTIVATE_STR
+Selezionata verrà attivata prima del salvataggio.\x00
+;
+;

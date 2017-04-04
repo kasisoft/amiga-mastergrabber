@@ -1,0 +1,259 @@
+; Catalog-Descriptor file for "MasterGrabber v1.2"
+; (c) Copyrights by Daniel Kasmeroglu alias Deekah
+;
+ERR_MEMORY_STR (1//)
+Not enough memory available !\x00
+;
+;
+ERR_LIBRARY_STR (2//)
+I need \x22%s\x22 v%ldd or higher to run !\x00
+;
+;
+ERR_LIBWARN_STR (3//)
+I could use \x22%s\x22 v%ld or higher !\x00
+;
+;
+ERR_OS_STR (4//)
+You need Amiga OS 3.0 (v39) or higher !\x00
+;
+;
+ERR_WINDOWLIST_STR (5//)
+You should load the windowlist first !\x00
+;
+;
+ERR_SCREENLIST_STR (6//)
+You should load the screenlist first !\x00
+;
+;
+ERR_OPEN_STR (7//)
+File \x22\s\x22 can't be opened !\x00
+;
+;
+ERR_NOHELP_STR (8//)
+Can't locate the help-guide !\x00
+;
+;
+ERR_TITLE_STR (9//)
+MG - Error\x00
+;
+;
+ERR_ANSWER0_STR (10//)
+_Continue\x00
+;
+;
+ERR_ANSWER1_STR (11//)
+_OK\x00
+;
+;
+ERR_REOPEN_STR (12//)
+Can't reopen the window !\x00
+;
+;
+ERR_VALIDDIM_STR (13//)
+\x1bcYou must enter valid dimensions\x0ato save a screen-area !\x00
+;
+;
+ERR_DESTPATH_STR (14//)
+Enter a destination-path first !\x00
+;
+;
+MAIN_TYPE_STR (15//)
+Ty_pe.....:\x00
+;
+;
+MAIN_LEFT_STR (16//)
+_Left.....:\x00
+;
+;
+MAIN_TOP_STR (17//)
+_Top......:\x00
+;
+;
+MAIN_WIDTH_STR (18//)
+_Width..:\x00
+;
+;
+MAIN_HEIGHT_STR (19//)
+_Height.:\x00
+;
+;
+MAIN_FILE_STR (20//)
+_IFF-File.:\x00
+;
+;
+MAIN_REFRESH_STR (21//)
+_Refresh list\x00
+;
+;
+MAIN_HIDE_STR (22//)
+Hi_de window\x00
+;
+;
+MAIN_SAVE_STR (23//)
+_Save\x00
+;
+;
+MAIN_QUIT_STR (24//)
+_Exit\x00
+;
+;
+MAIN_COUNTDOWN_STR (25//)
+_Countdown:\x00
+;
+;
+MAIN_ACTIVATE_STR (26//)
+_Activate window\x00
+;
+;
+MAIN_TYPE_CHAR_STR (27//)
+p\x00
+;
+;
+MAIN_LEFT_CHAR_STR (28//)
+l\x00
+;
+;
+MAIN_TOP_CHAR_STR (29//)
+t\x00
+;
+;
+MAIN_WIDTH_CHAR_STR (30//)
+w\x00
+;
+;
+MAIN_HEIGHT_CHAR_STR (31//)
+h\x00
+;
+;
+MAIN_FILE_CHAR_STR (32//)
+i\x00
+;
+;
+MAIN_ASLREQUESTER_CHAR_STR (33//)
+f\x00
+;
+;
+MAIN_REFRESH_CHAR_STR (34//)
+r\x00
+;
+;
+MAIN_HIDE_CHAR_STR (35//)
+d\x00
+;
+;
+MAIN_SAVE_CHAR_STR (36//)
+s\x00
+;
+;
+MAIN_QUIT_CHAR_STR (37//)
+e\x00
+;
+;
+MAIN_COUNTDOWN_CHAR_STR (38//)
+c\x00
+;
+;
+MAIN_ACTIVATE_CHAR_STR (39//)
+a\x00
+;
+;
+GLO_NOTITLE_STR (40//)
+no title\x00
+;
+;
+GLO_ASLTITLE_STR (41//)
+Select a file:\x00
+;
+;
+GLO_SCREENTITLE_STR (42//)
+MasterGrabber v1.2b (c) Copyrights by Daniel Kasmeroglu (1997)\x00
+;
+;
+GLO_WINDOWTITLE_STR (43//)
+MG - REGWARE\x00
+;
+;
+GLO_SCREEN_STR (44//)
+Screen\x00
+;
+;
+GLO_WINDOW_STR (45//)
+Window\x00
+;
+;
+GLO_AREA_STR (46//)
+Area\x00
+;
+;
+GLO_SCREENLIST_STR (47//)
+Screenlist\x00
+;
+;
+GLO_WINDOWLIST_STR (48//)
+Windowlist\x00
+;
+;
+TTI_TYPE_STR (49//)
+Specifies the type of what you want to save !\x00
+;
+;
+TTI_LEFT_STR (50//)
+\x1bcSpecifies the \x1bbleft\x1bn-top corner\x0aof the area you want to save !\x00
+;
+;
+TTI_TOP_STR (51//)
+\x1bcSpecifies the left-\x1bbtop\x1bn corner\x0aof the area you want to save !\x00
+;
+;
+TTI_WIDTH_STR (52//)
+Select the width of your area !\x00
+;
+;
+TTI_HEIGHT_STR (53//)
+Select the height of your area !\x00
+;
+;
+TTI_FILE_STR (54//)
+\x1bcEnter the destination path for your image !\x0a\x1bbNOTE: An existing file will be overwritten,\x1bn\x0a\x1bbwithout any comment !\x00
+;
+;
+TTI_REFRESH_STR (55//)
+Reload the whole list !\x00
+;
+;
+TTI_HIDE_STR (56//)
+Hide window while saving !\x00
+;
+;
+TTI_SAVE_STR (57//)
+Start saving the image !\x00
+;
+;
+TTI_QUIT_STR (58//)
+Leave this program !\x00
+;
+;
+TTI_ASLREQUESTER_STR (59//)
+\x1bcSelect the file with an ASL-Filerequester !\x0a\x1bb(Hotkey: \x22f\x22)\x00
+;
+;
+TTI_LIST_STR (60//)
+Shows selectable screens or windows !\x00
+;
+;
+TTI_MOUSE_STR (61//)
+Current mouse-position on the screen !\x00
+;
+;
+TTI_SWITCH_STR (62//)
+Switch between the screen- and the windowlist !\x00
+;
+;
+TTI_COUNTDOWN_STR (63//)
+\x1bcEnter the number of seconds until the\x0ascreen will be grabbed !\x00
+;
+;
+TTI_ACTIVATE_STR (64//)
+Activate the selected window before grabbing !\x00
+;
+;
